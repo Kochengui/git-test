@@ -1,7 +1,7 @@
-def p_p(x:str):
-    return x
+def p_p(z:str):
+    return z
 
-y=input()
+x=input()
 
-print(p_p(y))
+print(p_p(x))
 #func print
