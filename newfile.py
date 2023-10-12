@@ -4,3 +4,4 @@ def p_p(x:str):
 y=input()
 
 print(p_p(y))
+#func print
