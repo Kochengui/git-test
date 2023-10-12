@@ -1,9 +1,9 @@
 
-def p_p(y:str):
-    return y
+def p_p(z:str):
+    return z
 
-x=input()
-print(p_p(x))
+y=input()
+print(p_p(y))
 
 #func print
 
