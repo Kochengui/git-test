@@ -1,1 +1,2 @@
-print('Okey')
+x = print('Okey')
+print(f'{x}')
