@@ -1,6 +1,6 @@
 
-def p_p(x:str):
-    return x
+def p_p(z:str):
+    return z
 
 y=input()
 print(p_p(y))
