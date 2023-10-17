@@ -1,6 +1,6 @@
 
 def p_p(z:list)->type:
-    return list(map(lambda x: x**2,z))
+    return list(map(lambda x: x**x,z))
 
 y=map(int,(input().split()))
 print(p_p(y))
