@@ -1,8 +1,8 @@
 
-def p_p(z:list)->type:
-    return list(map(lambda x: x**2,z))
+def p_p(z:str):
+    return z
 
-y=map(int,(input().split()))
+y=input()
 print(p_p(y))
 
 #func print
